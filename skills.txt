@@ -1,0 +1,6 @@
+1. Тестирование API через Postman
+2. Снятие и чтение логов с внешнего сервера
+3. Снифинг http web трафика через Charles и Fiddler
+4. Dev Tools веб браузеров (Google Chrome, FireFox)
+5. Командная строка (terminal) Linux
+6. Основы SQL
